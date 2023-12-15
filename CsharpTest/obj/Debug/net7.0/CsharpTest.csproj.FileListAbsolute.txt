@@ -1,0 +1,15 @@
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\bin\Debug\net7.0\CsharpTest.exe
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\bin\Debug\net7.0\CsharpTest.deps.json
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\bin\Debug\net7.0\CsharpTest.runtimeconfig.json
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\bin\Debug\net7.0\CsharpTest.dll
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\bin\Debug\net7.0\CsharpTest.pdb
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.csproj.AssemblyReference.cache
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.AssemblyInfoInputs.cache
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.AssemblyInfo.cs
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.csproj.CoreCompileInputs.cache
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.dll
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\refint\CsharpTest.dll
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.pdb
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\CsharpTest.genruntimeconfig.cache
+C:\Users\mskim\source\repos\CsharpTest\CsharpTest\obj\Debug\net7.0\ref\CsharpTest.dll

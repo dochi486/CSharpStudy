@@ -1,0 +1,15 @@
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\bin\Debug\net7.0\MinValueGenerator.exe
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\bin\Debug\net7.0\MinValueGenerator.deps.json
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\bin\Debug\net7.0\MinValueGenerator.runtimeconfig.json
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\bin\Debug\net7.0\MinValueGenerator.dll
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\bin\Debug\net7.0\MinValueGenerator.pdb
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.csproj.AssemblyReference.cache
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.AssemblyInfoInputs.cache
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.AssemblyInfo.cs
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.dll
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\refint\MinValueGenerator.dll
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.pdb
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\MinValueGenerator.genruntimeconfig.cache
+C:\Users\mskim\source\repos\CsharpTest\MinValueGenerator\obj\Debug\net7.0\ref\MinValueGenerator.dll
