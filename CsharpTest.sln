@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHano
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPlay", "WordPlay\WordPlay.csproj", "{C7C3649D-D98B-4BCA-8214-206C00F8A576}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpAndTeleport", "JumpAndTeleport\JumpAndTeleport.csproj", "{09F94EC4-19AA-4D6D-BA39-345B95DD66CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F94EC4-19AA-4D6D-BA39-345B95DD66CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F94EC4-19AA-4D6D-BA39-345B95DD66CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F94EC4-19AA-4D6D-BA39-345B95DD66CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F94EC4-19AA-4D6D-BA39-345B95DD66CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

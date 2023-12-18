@@ -30,27 +30,7 @@ namespace WordPlay
                     return new int[2] { i % n + 1, i / n + 1 };
                 
                 list.Add(words[i]);
-            }
-            
-            // 중복일 떄 탈락
-            // int index = 0;
-            
-            // var ruleBreaker = RuleCheck(list, n);
-            //
-            // // 룰을 어긴 사람이 없다면
-            // if(ruleBreaker[0] == 1 && ruleBreaker[1] == -1)
-            // {
-            //     var duplicateRespond = DuplicateCheck(list, n);
-            //     answer = duplicateRespond;
-            // }
-            // else
-            // {
-            //     answer = ruleBreaker;
-            // }
-            
-            //가장 먼저 탈락하는 사람의 번호와
-            //그 사람이 자신의 몇 번째 차례에 탈락하는지를 구해서 return 하도록 solution 함수를 완성해주세요.
-            
+            }   
             return new int[2] {0, 0};
         }
 
