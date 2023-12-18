@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpet", "Carpet\Carpet.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{C3DA4815-442F-4021-9B03-9B58D69FA318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPlay", "WordPlay\WordPlay.csproj", "{C7C3649D-D98B-4BCA-8214-206C00F8A576}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C3DA4815-442F-4021-9B03-9B58D69FA318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3DA4815-442F-4021-9B03-9B58D69FA318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3DA4815-442F-4021-9B03-9B58D69FA318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C3649D-D98B-4BCA-8214-206C00F8A576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

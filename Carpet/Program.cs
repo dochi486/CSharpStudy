@@ -42,36 +42,27 @@ namespace Carpet
             // 가운데부터 짝이 맞는 두가지 약수 값의 -2를 하고 곱했을때 b값과 같으면 정답입니다.
 
             int middleIdx = divisors.Count / 2;
-
-            for (int i = 0; i < divisors.Count; i++)
+            for (int i = 0; i < middleIdx; i++)
             {
                 if (middleIdx < divisors.Count)
                 {
                     if (divisors.Count % 2 == 0)
                     {
-                        width = divisors[middleIdx];
-                        height = divisors[middleIdx - 1];
+                        width = divisors[middleIdx - 1 - i];
+                        height = divisors[middleIdx + i];
                     }
                     else
                     {
-                        width = divisors[middleIdx];
-                        height = divisors[middleIdx];
+                        width = divisors[middleIdx - i];
+                        height = divisors[middleIdx + i];
                     }
 
                     if ((width - 2) * (height - 2) == yellow)
                     {
-                        answer = new int[] { width, height };
-                    }
-                    else
-                    {
-                        middleIdx++;
+                        answer = new int[] { height, width };
                     }
                 }
-                
             }
-            
-            
-            
             return answer;
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\bin\Debug\WordPlay.exe
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\bin\Debug\WordPlay.pdb
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\obj\Debug\WordPlay.csproj.AssemblyReference.cache
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\obj\Debug\WordPlay.csproj.SuggestedBindingRedirects.cache
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\obj\Debug\WordPlay.csproj.CoreCompileInputs.cache
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\obj\Debug\WordPlay.exe
+C:\Users\mskim\source\repos\CsharpTest\WordPlay\obj\Debug\WordPlay.pdb
