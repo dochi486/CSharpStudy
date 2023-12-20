@@ -1,0 +1,7 @@
+C:\Users\mskim\source\repos\CsharpTest\Tournament\bin\Debug\Tournament.exe
+C:\Users\mskim\source\repos\CsharpTest\Tournament\bin\Debug\Tournament.pdb
+C:\Users\mskim\source\repos\CsharpTest\Tournament\obj\Debug\Tournament.csproj.AssemblyReference.cache
+C:\Users\mskim\source\repos\CsharpTest\Tournament\obj\Debug\Tournament.csproj.SuggestedBindingRedirects.cache
+C:\Users\mskim\source\repos\CsharpTest\Tournament\obj\Debug\Tournament.csproj.CoreCompileInputs.cache
+C:\Users\mskim\source\repos\CsharpTest\Tournament\obj\Debug\Tournament.exe
+C:\Users\mskim\source\repos\CsharpTest\Tournament\obj\Debug\Tournament.pdb
