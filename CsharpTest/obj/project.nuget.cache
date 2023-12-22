@@ -1,45 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EheCvNsGgKIUH7saqxPwfRDib4/PpWIuvmCSxnhveMvK6yyUqYXJswuqqS67/Zg6GwaHFlMfBs/tL9pS3Duv0g==",
-  "success": false,
+  "dgSpecHash": "QulErUn6BMsI4JEUWyvqbaNWE6nBH9mN9FOtYC7AG2PuS7QTbT17GYhn7ouxvyEPxYgN9tTerXQqK7UHt4pV1g==",
+  "success": true,
   "projectFilePath": "C:\\Users\\mskim\\source\\repos\\CsharpTest\\CsharpTest\\CsharpTest.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Microsoft.NETCore.App.Ref 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
-      "libraryId": "Microsoft.NETCore.App.Ref",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Microsoft.WindowsDesktop.App.Ref 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Microsoft.AspNetCore.App.Ref 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    },
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Microsoft.NETCore.App.Host.win-x64 패키지를 찾을 수 없습니다. 원본에 ID가 Microsoft Visual Studio Offline Packages인 패키지가 없습니다.",
-      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }
