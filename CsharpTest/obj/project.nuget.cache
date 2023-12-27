@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QulErUn6BMsI4JEUWyvqbaNWE6nBH9mN9FOtYC7AG2PuS7QTbT17GYhn7ouxvyEPxYgN9tTerXQqK7UHt4pV1g==",
+  "dgSpecHash": "c2IQNhNgggPYwf3uHU6sk4fs5PZJoVCAZJd1A4gEyM5CXBWAt/jRJ5LJcdszinv9jUXpIY/ECJzcCOxZRYY5BA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mskim\\source\\repos\\CsharpTest\\CsharpTest\\CsharpTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mskim\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mskim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mskim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mskim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

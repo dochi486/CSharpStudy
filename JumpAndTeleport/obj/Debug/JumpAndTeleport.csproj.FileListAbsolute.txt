@@ -1,7 +1,6 @@
 C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\bin\Debug\JumpAndTeleport.exe
 C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\bin\Debug\JumpAndTeleport.pdb
 C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\obj\Debug\JumpAndTeleport.csproj.AssemblyReference.cache
-C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\obj\Debug\JumpAndTeleport.csproj.SuggestedBindingRedirects.cache
 C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\obj\Debug\JumpAndTeleport.csproj.CoreCompileInputs.cache
 C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\obj\Debug\JumpAndTeleport.exe
 C:\Users\mskim\source\repos\CsharpTest\JumpAndTeleport\obj\Debug\JumpAndTeleport.pdb

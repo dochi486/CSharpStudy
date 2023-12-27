@@ -1,7 +1,6 @@
 C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\bin\Debug\NextGreaterNumber.exe
 C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\bin\Debug\NextGreaterNumber.pdb
 C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\obj\Debug\NextGreaterNumber.csproj.AssemblyReference.cache
-C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\obj\Debug\NextGreaterNumber.csproj.SuggestedBindingRedirects.cache
 C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\obj\Debug\NextGreaterNumber.csproj.CoreCompileInputs.cache
 C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\obj\Debug\NextGreaterNumber.exe
 C:\Users\mskim\source\repos\CsharpTest\NextGreaterNumber\obj\Debug\NextGreaterNumber.pdb

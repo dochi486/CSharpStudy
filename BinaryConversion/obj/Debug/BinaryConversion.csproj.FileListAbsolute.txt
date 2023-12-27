@@ -1,7 +1,6 @@
 C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\bin\Debug\BinaryConversion.exe
 C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\bin\Debug\BinaryConversion.pdb
 C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\obj\Debug\BinaryConversion.csproj.AssemblyReference.cache
-C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\obj\Debug\BinaryConversion.csproj.SuggestedBindingRedirects.cache
 C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\obj\Debug\BinaryConversion.csproj.CoreCompileInputs.cache
 C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\obj\Debug\BinaryConversion.exe
 C:\Users\mskim\source\repos\CsharpTest\BinaryConversion\obj\Debug\BinaryConversion.pdb
